@@ -1,0 +1,14 @@
+fastapi==0.85.2
+sqlalchemy==1.4.54
+aiosqlite==0.17.0
+starlette-context==0.3.6
+psutil==5.9.8
+platformdirs==3.11.0
+canlib==1.27.606
+uvicorn==0.18.3
+pyasn1==0.5.1
+pydantic==1.10.18
+starlette==0.20.4
+cryptography==41.0.7
+pyasn1-modules==0.3.0
+requests==2.32.3
