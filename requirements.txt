@@ -12,12 +12,3 @@ starlette==0.20.4
 cryptography==41.0.7
 pyasn1-modules==0.3.0
 requests==2.32.3
-CommandLineParser==2.9.1
-DbcParserLib==1.2.0
-LiveChartsCore.SkiaSharpView.WPF==2.0.0
-LiveCharts.Wpf.NetCore3==0.9.7
-MahApps.Metro.IconPacks.Material==4.11.0
-Newtonsoft.Json==13.0.3
-Sylvan.Data.Csv==1.2.7
-System.Data.OleDb==7.0.0
-System.Data.SqlClient==4.8.5
